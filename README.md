@@ -1,5 +1,4 @@
-# Interactive Coffee Sales Dashboard - GitHub README
-
+# Interactive Coffee Sales Dashboard 
 ## Overview
 
 Welcome to the Interactive Coffee Sales Dashboard project! This repository contains the code and files necessary to create an engaging Excel dashboard visualizing coffee sales data across three countries (USA, UK, and Ireland) from 2019 to 2022.
